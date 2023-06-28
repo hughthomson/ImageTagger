@@ -1,0 +1,2 @@
+tableName: ImageTags
+partitionKey: fileName (String)
